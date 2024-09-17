@@ -27,5 +27,6 @@ This template is intended to simplify the process of creating Unity 6 projects t
 
 ## Live Demo
 
-https://evandaley.github.io/WebGPU-URP-Unity6-sandbox
-
+Examples:
+- https://evandaley.github.io/unity-webgpu-template
+- https://evandaley.github.io/WebGPU-URP-Unity6-sandbox
