@@ -23,7 +23,8 @@ This template is intended to simplify the process of creating Unity 6 projects t
 
 1. Git push
 2. After you build and push up the repo, use the gitub UI to turn on "Pages". 
-3. Then find your game at: https://{your-github-username}.github.io/{your-repo-name}
+3. You should see the progress of your deployment in github's UI. As an example: https://github.com/EvanDaley/unity-webgpu-template/actions/runs/10894713366
+4. Once that is done, find your game at: https://{your-github-username}.github.io/{your-repo-name}
 
 ## Live Demo
 
