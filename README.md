@@ -16,10 +16,8 @@ This template is intended to simplify the process of creating Unity 6 projects t
 1. Create a repo from this template
 2. Open the project in Unity 6
 3. File -> Build and Run. Build to the "Build" folder
-4. At this point, Unity creates an index.html file under the Builds folder but it sucks, and you don't want to use it. Delete that shit.
-5. Use the index.html file provided in this repo, at the root of the directory.
-6. After the build completes Unity will have opened your game in Chrome. Close that tab.
-7. Instead, you want to hit "Go Live" in the bottom right hand corner of VS Code. This will server the site using the correct root HTML file, and it'll still work even if Unity isn't running.
+4. At this point, Unity generates an index.html file but it kind of sucks. I recommend grabbing the index.html and styles.css from: (TODO)
+6. After the build completes your game will open in Chrome.
 
 ## Let the World See Your Game
 
@@ -27,4 +25,7 @@ This template is intended to simplify the process of creating Unity 6 projects t
 2. After you build and push up the repo, use the gitub UI to turn on "Pages". 
 3. Then find your game at: https://{your-github-username}.github.io/{your-repo-name}
 
+## Live Demo
+
+https://evandaley.github.io/WebGPU-URP-Unity6-sandbox
 
